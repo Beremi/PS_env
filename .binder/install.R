@@ -1,4 +1,3 @@
-
 install.packages("binom")
 install.packages("BSDA")
 install.packages("car")
@@ -16,3 +15,7 @@ install.packages("rcompanion")
 install.packages("readxl")
 install.packages("robustbase")
 install.packages("stringi")
+install.packages("rstatix")
+install.packages("ggplot2")
+install.packages("ggmosaic")
+install.packages("tidyr")
